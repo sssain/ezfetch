@@ -6,14 +6,8 @@ not a simple python fetch tool, but yeah
 
 # Installation And Dependencies
 ```python
-## install wmi
-pip install wmi
-
-## install psutil
-pip install psutil
-
-## install colorama
-pip install colorama
+## install all dependencies using requirements.txt provided
+pip3 install -r requirements.txt
 
 ## run ezfetch
 py ezfetch.py
