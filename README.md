@@ -1,7 +1,7 @@
 # ezfetch
 <img src="https://i.postimg.cc/4dtRzgdv/ezfetchupdate.png"></img>
 
-not a simple python fetch tool, umm.
+not a simple python fetch tool for windows.
 
 
 # Installation And Dependencies
