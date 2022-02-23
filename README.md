@@ -5,7 +5,7 @@ not a simple python fetch tool for windows.
 
 
 # Installation And Dependencies
-```python
+```py
 ## git clone this repo
 git clone https://github.com/sssain/ezfetch
 
