@@ -6,6 +6,9 @@ not a simple python fetch tool for windows.
 
 # Installation And Dependencies
 ```python
+## git clone this repo
+git clone https://github.com/sssain/ezfetch
+
 ## install all dependencies using requirements.txt provided
 pip3 install -r requirements.txt
 
